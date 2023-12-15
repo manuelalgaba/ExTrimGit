@@ -3,8 +3,13 @@ import java.util.Random;
 public class Ejercicio4 {
     public static void main(String[] args) {
         Random random = new Random();
+<<<<<<< HEAD
 
         int[][] matriz = new int[6][6];//La matriz es de 6*6
+=======
+        //Creación de variables
+        int[][] matriz = new int[3][3];
+>>>>>>> 8c03b181a8f6f686f53bef558871b9f1cea56dd9
 
         for (int i = 0; i < 6; i++) {
             for (int j = 0; j < 6; j++) {
